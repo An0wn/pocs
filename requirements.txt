@@ -1,0 +1,9 @@
+ipyvuetify==1.6.1
+ipywidgets==7.4.2
+seaborn==0.9.0
+pandas==0.24.2
+demjson==2.2.4
+numpy==1.16.2
+ipywidgets==7.4.2
+pip==20.3.3
+tensorflow==2.4.1
