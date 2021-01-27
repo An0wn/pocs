@@ -7,3 +7,4 @@ numpy==1.16.2
 ipywidgets==7.4.2
 pip==20.3.3
 tensorflow==2.4.1
+appmode==0.8.0 
